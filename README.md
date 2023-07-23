@@ -1,5 +1,5 @@
 # What is it for?
-This script downloads all currency rates from Central Bank of Armenia and stores them locally in *.xml files.
+This script downloads all currency rates from Central Bank of Armenia and stores them locally in *.xml files. Made for [The Open Data Armenia team](https://github.com/opendataam/opendatam-tasks/issues/9).
 
 First available date is `2000-01-01`. New data appears on working days after 12:00 UTC.
 
